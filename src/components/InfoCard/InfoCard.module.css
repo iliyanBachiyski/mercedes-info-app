@@ -1,6 +1,5 @@
 .InfoCard {
   width: 80%;
-  height: 30%;
   margin: auto;
   background-color: #333;
   color: white;
@@ -9,6 +8,9 @@
   align-items: center;
 }
 
+.InfoCard p {
+  margin-bottom: 0;
+}
 .InfoCard button {
   background-color: white; /* Green */
   border: none;
@@ -18,4 +20,5 @@
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  margin: 10px;
 }
