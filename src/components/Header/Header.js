@@ -13,13 +13,13 @@ const header = () => {
             </NavLink>
           </li>
           <li>
-            <NavLink activeClassName={classes.Active} to="/dealer">
-              Dealer
+            <NavLink activeClassName={classes.Active} to="/dealers">
+              Dealers
             </NavLink>
           </li>
           <li>
-            <NavLink activeClassName={classes.Active} to="/gallery">
-              Gallery
+            <NavLink activeClassName={classes.Active} to="/search">
+              Search
             </NavLink>
           </li>
         </ul>

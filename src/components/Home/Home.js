@@ -36,7 +36,7 @@ class Home extends Component {
 }
 const mapStateToProps = state => {
   return {
-    slideshowPhotos: state.slideshowPhotos
+    slideshowPhotos: state.imgRed.slideshowPhotos
   };
 };
 export default connect(

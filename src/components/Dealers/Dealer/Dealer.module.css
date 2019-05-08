@@ -1,0 +1,39 @@
+.Dealer {
+  background-color: red;
+  margin-top: 10px;
+  height: 80%;
+}
+
+.Card {
+  width: 40%;
+  height: 45%;
+}
+
+.CardLeft {
+  float: left;
+  margin-left: 5%;
+  margin-right: 10%;
+}
+
+.CardRight {
+  float: right;
+  margin-right: 5%;
+}
+
+.Address {
+  background-color: white;
+}
+
+.Communication {
+  background-color: green;
+}
+
+.ProductGroup {
+  margin-top: 2%;
+  background-color: grey;
+}
+
+.OpeningHours {
+  margin-top: 2%;
+  background-color: yellow;
+}

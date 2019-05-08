@@ -1,0 +1,37 @@
+.Dealers {
+  margin: auto;
+  margin-top: 10px;
+  width: 80%;
+  height: 80%;
+  background-color: #333;
+  color: white;
+}
+
+.Header {
+  height: 10%;
+  border-bottom: 2px solid #0885b2;
+}
+
+.Title {
+  float: left;
+  height: 100%;
+  width: 50%;
+  text-align: start;
+  font-size: 20pt;
+  font-family: monospace;
+}
+
+.ImageContainer {
+  float: right;
+  height: 100%;
+  width: 50%;
+}
+
+.ImageContainer img {
+  height: inherit;
+  float: right;
+}
+
+.Dealers button {
+  margin-top: 10px;
+}
