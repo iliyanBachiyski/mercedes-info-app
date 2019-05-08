@@ -1,7 +1,17 @@
-.Slideshow {
-  width: 50%;
+.SlideContainer {
+  width: 70%;
+  margin: auto;
+  margin-bottom: 5px;
 }
 
-.Slideshow img {
-  width: 100%;
+h3 {
+  text-align: center;
+}
+
+.EachSlide > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  height: 450px;
 }
