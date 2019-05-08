@@ -3,7 +3,7 @@ import classes from "./Slideshow.module.css";
 
 const slideshow = props => (
   <div className={classes.Slideshow}>
-    <img src={props.image.url} alt={props.image.alt} />
+    <img src={props.url} alt="Vehicle" />
   </div>
 );
 
