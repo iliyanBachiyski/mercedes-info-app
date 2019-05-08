@@ -1,7 +1,7 @@
 import * as actions from "../../actions/actionConst";
 
 const initialState = {
-  dealer: [],
+  dealer: {},
   nextPage: ""
 };
 
