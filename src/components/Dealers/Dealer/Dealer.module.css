@@ -1,5 +1,4 @@
 .Dealer {
-  background-color: red;
   margin-top: 10px;
   height: 80%;
 }
@@ -21,19 +20,15 @@
 }
 
 .Address {
-  background-color: white;
 }
 
 .Communication {
-  background-color: green;
 }
 
 .ProductGroup {
   margin-top: 2%;
-  background-color: grey;
 }
 
 .OpeningHours {
   margin-top: 2%;
-  background-color: yellow;
 }

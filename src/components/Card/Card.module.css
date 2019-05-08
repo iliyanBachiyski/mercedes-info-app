@@ -1,0 +1,20 @@
+.Card {
+  width: 100%;
+  height: 100%;
+  border: 1px solid white;
+  font-family: monospace;
+}
+
+.Title {
+  border-bottom: 1px solid #0885b2;
+  font-size: 20pt;
+}
+
+.Content {
+  margin-top: 10px;
+  font-size: 12pt;
+}
+
+.Item {
+  margin-top: 5px;
+}

@@ -18,7 +18,6 @@ const dealerReducer = (state = initialState, action) => {
     default:
       newState = { ...state };
   }
-  console.log(newState);
   return newState;
 };
 
