@@ -1,0 +1,19 @@
+.SearchBarContainer input[type="text"] {
+  width: 30%;
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 20px;
+  border: none;
+}
+
+.SearchBarContainer button {
+  padding: 6px 10px;
+  background: rgb(170, 170, 170);
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.SearchBarContainer button:hover {
+  background: #ccc;
+}
