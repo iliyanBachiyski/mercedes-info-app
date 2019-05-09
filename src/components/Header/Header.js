@@ -7,8 +7,8 @@ const header = () => {
     <div>
       <nav>
         <ul>
-          <li className={classes.Active}>
-            <NavLink activeClassName={classes.Active} to="/" exact={true}>
+          <li>
+            <NavLink activeClassName={classes.Active} to="/" exact>
               Home
             </NavLink>
           </li>

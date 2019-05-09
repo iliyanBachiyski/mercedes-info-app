@@ -1,5 +1,5 @@
 import * as actions from "./actionConst";
-import { IMAGE_URL, DEALER_URL } from "../../API_CONFIG";
+import { IMAGE_URL } from "../../API_CONFIG";
 
 export const fetchImages = () => {
   return dispatch => {
