@@ -11,7 +11,7 @@
 .InfoCard p {
   margin-bottom: 0;
 }
-.InfoCard button {
+.InfoCard a {
   background-color: white; /* Green */
   border: none;
   color: #333;

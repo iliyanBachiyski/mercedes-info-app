@@ -163,6 +163,7 @@ export const fetchDealers = () => {
       }
     };
     dispatch(dealersActionCreator(data));
+    // Dispatching some hardcoded data because of restriction from the API
     /*     fetch(DEALER_URL, {
       headers: new Headers({ accept: "application/json" })
     })
