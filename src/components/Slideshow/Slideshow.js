@@ -8,7 +8,8 @@ const slideshow = props => {
     transitionDuration: 500,
     infinite: true,
     indicators: false,
-    arrows: false
+    arrows: false,
+    ...props.config
   };
   return (
     <div className={classes.SlideContainer}>
